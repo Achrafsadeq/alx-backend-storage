@@ -4,8 +4,7 @@
 
 This project introduces NoSQL databases with MongoDB, covering fundamental operations like database creation, document insertion, querying, updating, and deleting. It also includes Python scripts to interact with MongoDB using PyMongo, implementing more complex operations like aggregation and data analysis.
 
----
-
+ 
 ## Requirements
 
 | Category          | Details                                                                 |
@@ -19,8 +18,7 @@ This project introduces NoSQL databases with MongoDB, covering fundamental opera
 | File Length       | File length will be tested using wc                                    |
 | Plagiarism        | Any form of plagiarism is strictly forbidden                           |
 
----
-
+ 
 ## Project Structure
 
 | Task | Description | File |
@@ -42,7 +40,6 @@ This project introduces NoSQL databases with MongoDB, covering fundamental opera
 | 14   | Top students by average score | 101-students.py |
 | 15   | Log stats with IPs | 102-log_stats.py |
 
----
 
 ## Learning Objectives
 
@@ -55,8 +52,6 @@ This project introduces NoSQL databases with MongoDB, covering fundamental opera
 - Working with embedded documents and arrays
 - Implementing complex data analysis tasks
 
----
-
 ## Additional Notes
 
 - MongoDB 4.2 must be installed on Ubuntu 18.04 LTS
@@ -65,7 +60,6 @@ This project introduces NoSQL databases with MongoDB, covering fundamental opera
 - Follow Python best practices (PEP 8) for all scripts
 - Test all scripts thoroughly before submission
 
----
 
 ## Setup and Execution
 
