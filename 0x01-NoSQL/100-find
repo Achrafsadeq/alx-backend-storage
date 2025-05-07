@@ -1,0 +1,2 @@
+// MongoDB shell script to find documents where name starts with "ALX"
+db.school.find({ name: { $regex: /^ALX/ } })
